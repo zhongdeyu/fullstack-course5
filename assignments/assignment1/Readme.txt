@@ -1,0 +1,1 @@
+This is a dev note for assignment 1, fullstack-course5.
